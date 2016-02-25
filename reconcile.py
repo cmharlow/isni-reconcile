@@ -1,9 +1,8 @@
 """
-An OpenRefine reconciliation service for the API provided by
-OCLC for FAST.
+An OpenRefine reconciliation service for the ISNI API.
 
 See API documentation:
-http://www.oclc.org/developer/documentation/fast-linked-data-api/request-types
+http://isni.oclc.nl/sru/DB=1.2/
 
 This code is adapted from Michael Stephens:
 https://github.com/mikejs/reconcile-demo
