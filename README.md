@@ -12,4 +12,4 @@ Add the service by entering the URL 'http://0.0.0.0:5000/reconcile'.
 
 Michael Stephens wrote a [demo reconcilliation service](https://github.com/mikejs/reconcile-demo) that this code is based on.
 
-Tested on python 2 or 3.4.3
+Tested on python 2.7.10 and 3.4.3
